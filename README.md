@@ -26,7 +26,7 @@ My research interests lie at the intersection of **large language models (LLMs)*
 
 ---
 
-### 🚧 Recent Projects
+### Recent Projects
 
 - **SafeMate**: A multimodal RAG agent for emergency preparedness using **MCP**, **LangGraph**, and **streaming LLM interfaces**
 - **Adaptive Traffic Signal Control**: Multi-agent RL using **SUMO**, **DQN**, and **TraCI** for traffic flow optimization
@@ -35,7 +35,7 @@ My research interests lie at the intersection of **large language models (LLMs)*
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 - **Languages**: Python, C++, Dart, JavaScript, SQL  
 - **AI/ML**: PyTorch, HuggingFace Transformers, SentenceTransformers, BLIP, CLIP  
@@ -44,14 +44,14 @@ My research interests lie at the intersection of **large language models (LLMs)*
 
 ---
 
-### 📄 Recent Highlights
+### Recent Highlights
 
 - `2025`: Submitted: SafeMate: A Modular RAG-Based Agent for Context-Aware Emergency Guidance 
 - `2025`: Submitted: MemeInterpret: Towards An All-in-one Dataset for Meme Understanding
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihyung803&show_icons=true&theme=default" />
